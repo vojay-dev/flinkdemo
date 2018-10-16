@@ -1,3 +1,7 @@
+# Introduction
+
+This repository contains various Flink examples that I created to prepare my talk at the code.talks conference 2018.
+
 # Start Cluster
 
 ```
